@@ -75,7 +75,7 @@ My work centers around solving real engineering problems: real-time data sync, o
 ### 🧠 State Management & Architecture
 <img src="https://img.shields.io/badge/Riverpod-2D9CDB?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoRouter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge&logo=clean&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge&logo=clean&logoColor=white"/> -->
 
 ### 🧰 Tools & Design
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -101,14 +101,13 @@ A **production-ready, WhatsApp-style real-time chat application** built with a s
 - 🔐 Firebase Authentication (secure sign-in flow)
 - 💬 Real-time one-to-one messaging with Cloud Firestore
 - 🖼️ Image sharing support
-- 🟢 Online presence tracking
 - ✅ Message delivery/read status
 - 📴 Offline support powered by Hive local storage
 - 🧭 Declarative navigation with GoRouter
 
 **Tech Stack:** `Flutter` `Dart` `Firebase Auth` `Cloud Firestore` `Hive` `Riverpod` `GoRouter` `Clean Architecture`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/velora">
+<a href="https://github.com/KartikSharma-tech/velora">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -131,7 +130,7 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 **Tech Stack:** `Flutter` `Dart` `Hive` `Clean UI` `State Management`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/cricket-scorer">
+<a href="https://github.com/KartikSharma-tech/cricket_scorer">
   <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -143,16 +142,16 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikSharma-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma-tech&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma-tech&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
 </div>
 
@@ -162,7 +161,7 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KartikSharma-tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -172,7 +171,7 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/KartikSharma-tech/KartikSharma-tech/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -215,10 +214,10 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO_LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/KartikSharma-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kartik-sharma-460b502a2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sharmakartik86000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- <a href="https://YOUR_PORTFOLIO_LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
 
 <br/><br/>
 
