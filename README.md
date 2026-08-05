@@ -1,16 +1,66 @@
-## Hi there 👋
+──────────────────────────────────────────
 
-<!--
-**KartikSharma-tech/KartikSharma-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        Hi, I'm Kartik Sharma
 
-Here are some ideas to get you started:
+Flutter Developer • Firebase
+Clean Architecture • Mobile Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(animated typing)
+
+──────────────────────────────────────────
+
+About Me
+
+Short intro
+
+──────────────────────────────────────────
+
+Featured Projects
+
+🏏 Cricket Scorer
+
+💬 Velora
+
+──────────────────────────────────────────
+
+Tech Stack
+
+Flutter  Dart  Firebase
+Hive  Riverpod  Git
+GitHub  Android Studio
+
+(beautiful badges)
+
+──────────────────────────────────────────
+
+GitHub Stats
+
+Stats Card
+
+Top Languages
+
+Contribution Graph
+
+Streak
+
+──────────────────────────────────────────
+
+Current Learning
+
+Firebase
+
+System Design
+
+CI/CD
+
+──────────────────────────────────────────
+
+Connect
+
+LinkedIn
+
+Email
+
+Portfolio (later)
+
+──────────────────────────────────────────
