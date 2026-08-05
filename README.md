@@ -1,157 +1,110 @@
-<h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
+<div align="center">
 
-<h3 align="center">
-Flutter Developer • Firebase • Clean Architecture • Mobile App Developer
-</h3>
+# Hi 👋 I'm Kartik Sharma
 
-<p align="center">
-Building production-ready Flutter applications with modern architecture, scalable solutions, and clean code.
-</p>
+### Flutter Developer • Firebase • Clean Architecture • Mobile Applications
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Firebase+Developer;Building+Production-Ready+Apps;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Flutter+Developer;Building+Production+Ready+Applications;Clean+Architecture+%7C+Firebase+%7C+Riverpod;Always+Learning+Something+New" />
 
-<p align="center">
-<a href="mailto:sharmakartik86000@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=KartikSharma-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <a href="https://github.com/KartikSharma-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/KartikSharma-tech?label=Followers&logo=github&style=for-the-badge"/>
 </a>
 
-<!-- Replace with your LinkedIn profile -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=KartikSharma-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💻 About Me
 
-- 🚀 Flutter Developer passionate about building production-ready mobile applications.
-- 📱 Currently building modern Flutter apps using Clean Architecture.
-- 🔥 Experienced with Firebase Authentication, Cloud Firestore, Firebase Storage and Hive.
-- 💡 Focused on writing scalable, maintainable and reusable code.
-- 🎯 Looking for Flutter Internship / Junior Flutter Developer opportunities.
+🎓 Bachelor of Computer Applications (BCA)
+
+📍 Rajasthan, India
+
+📱 Flutter Mobile Application Developer
+
+🔥 Passionate about building production-quality mobile applications.
+
+⚡ Currently focused on
+
+- Flutter
+- Firebase
+- Clean Architecture
+- Riverpod
+- Real-time Applications
+- Mobile UI/UX
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Current Focus
 
-### 💬 Velora
+✔ Production Ready Flutter Apps
 
-Production-ready Flutter Chat Application
+✔ Firebase Backend
+
+✔ Performance Optimization
+
+✔ Scalable Architecture
+
+✔ Offline First Applications
+
+✔ Mobile App Deployment
+
+---
+
+# 📌 Featured Projects
+
+## 💬 Velora
+
+Production Ready Flutter Chat Application
+
+### Features
 
 - Firebase Authentication
-- Real-Time Messaging
+- Real-time Messaging
 - Image Sharing
+- Online Presence
+- Read Status
+- Clean Architecture
 - Riverpod
 - Hive Offline Storage
-- GoRouter
-- Clean Architecture
+- Responsive UI
+
+🔗 Repository
+
+https://github.com/KartikSharma-tech/velora
 
 ---
 
-### 🏏 Cricket Scorer
+## 🏏 Cricket Scorer
 
-Professional Cricket Scoring Application
+Professional Flutter Cricket Scoring Application
 
-- Live Ball-by-Ball Scoring
+### Features
+
+- Ball By Ball Scoring
+- Live Match
 - Match History
-- Hive Offline Storage
+- Hive Database
 - Strike Rotation
-- Scoreboard
-- CRR / RRR
-- Professional UI
+- CRR
+- RRR
+- Multi Innings
+- Offline Storage
+
+🔗 Repository
+
+https://github.com/KartikSharma-tech/cricket_scorer
 
 ---
-
-# 🌱 Currently Learning
-
-- Advanced Flutter
-- Firebase
-- Riverpod
-- Clean Architecture
-- Performance Optimization
-- REST APIs
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,mysql,sqlite"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KartikSharma-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KartikSharma-tech&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSharma-tech&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartikSharma-tech&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📌 Featured Repositories
-
-⭐ **Velora**  
-Production-ready Flutter Chat Application using Firebase & Clean Architecture.
-
-⭐ **Cricket Scorer**  
-Professional Flutter Cricket Scoring Application with Hive Offline Storage.
-
----
-
-# 🎯 Career Goal
-
-My goal is to become a professional Flutter Mobile Application Developer by building scalable, production-ready applications, contributing to open source, and continuously improving my software engineering skills.
-
----
-
-# ⭐ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-<p align="center">
-Thanks for visiting my profile ❤️
-</p>
