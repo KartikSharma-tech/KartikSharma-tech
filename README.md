@@ -33,7 +33,6 @@
 
 ---
 
-# 🚀 Current Focus
 I'm a **Flutter Developer** focused on building scalable, production-ready mobile applications using **Clean Architecture**, **Firebase**, and modern state management. I don't just build UI — I architect apps that are maintainable, testable, and ready to scale from day one.
 
 My work centers around solving real engineering problems: real-time data sync, offline-first storage, robust state management, and clean folder structures that don't fall apart as the codebase grows.
@@ -141,12 +140,12 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikSharma-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma-tech&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=KartikSharma-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=KartikSharma-tech&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KartikSharma-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
@@ -160,7 +159,7 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KartikSharma-tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KartikSharma-tech&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
