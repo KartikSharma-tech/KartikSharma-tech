@@ -21,20 +21,19 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 💻 About Me
 
-```text
-final Developer kartik = Developer(
-  name: "Kartik Sharma",
-  role: "Flutter Developer",
-  location: "Rajasthan, India",
-  education: "Bachelor of Computer Applications (BCA)",
-  focus: "Production-grade Flutter apps with Clean Architecture",
-  currentlyBuilding: ["Velora - Real-time Chat App", "Cricket Scorer - Live Scoring App"],
-  believesIn: "Scalable code > Quick hacks",
-);
-```
+🎓 Bachelor of Computer Applications (BCA)
 
+📍 Rajasthan, India
+
+📱 Flutter Mobile Application Developer
+
+🔥 Passionate about building production-quality mobile applications.
+
+---
+
+# 🚀 Current Focus
 I'm a **Flutter Developer** focused on building scalable, production-ready mobile applications using **Clean Architecture**, **Firebase**, and modern state management. I don't just build UI — I architect apps that are maintainable, testable, and ready to scale from day one.
 
 My work centers around solving real engineering problems: real-time data sync, offline-first storage, robust state management, and clean folder structures that don't fall apart as the codebase grows.
@@ -174,40 +173,6 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 <img src="https://raw.githubusercontent.com/KartikSharma-tech/KartikSharma-tech/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
-
-> **Setup Instructions (do this once):**
-> 1. Create a new file in your profile repo: `.github/workflows/snake.yml`
-> 2. Paste this workflow:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
->
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 3. Push it → wait for the Action to run once → the snake SVG will appear automatically.
-
 <br/>
 
 ## 📬 Let's Connect
