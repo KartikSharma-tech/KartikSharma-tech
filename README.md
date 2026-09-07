@@ -141,7 +141,7 @@ A **professional cricket scoring application** built for live, ball-by-ball matc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikSharma-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=KartikSharma-tech&theme=tokyonight"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSharma-tech&theme=tokyonight&hide_border=true"/>
 
 <br/>
